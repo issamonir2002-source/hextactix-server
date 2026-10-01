@@ -1,0 +1,12 @@
+{
+  "name": "hex-tactics-server",
+  "version": "1.0.0",
+  "description": "Hex Tactics online server: friend codes, invites, relaying match moves.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
